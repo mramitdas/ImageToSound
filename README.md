@@ -43,4 +43,4 @@ Did you find this information useful, then give it a star
 
 Credits
 -----------
-All the credits to [mramitdas](github.com/mramitdas)
+All the credits to [mramitdas](https://github.com/mramitdas)
